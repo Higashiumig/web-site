@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f1e9; /* A soft, earthy off-white */
+    font-family: 'Georgia', serif; /* A more classic, "natural" feeling font */
+    color: #4a4a4a; /* Dark gray for good readability */
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2e6b2e; /* A deep, forest green */
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #5d4037; /* A soft, earthy brown */
+    font-size: 1.1em;
+    max-width: 600px; /* For better readability */
+    margin: 0 auto;
+    text-align: center;
+}
